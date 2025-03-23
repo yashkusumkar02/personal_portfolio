@@ -16,8 +16,7 @@
 
 # Demo :movie_camera:
 
-![](![image](https://github.com/user-attachments/assets/e8e7068b-3812-474a-b7f0-fe165a8cec7a)
-)
+![image](https://github.com/user-attachments/assets/e8e7068b-3812-474a-b7f0-fe165a8cec7a)
 
 ## View live preview [here]().
 
